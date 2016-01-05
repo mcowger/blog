@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: RP4VM4VCOPS
+author:
+  display_name: mcowger
+  login: mcowger
+  email: matt@cowger.us
+  url: ''
+author_login: mcowger
+author_email: matt@cowger.us
+wordpress_id: 571
+wordpress_url: http://www.exaforge.com/?p=571
+date: '2014-11-19 11:41:59 -0500'
+date_gmt: '2014-11-19 19:41:59 -0500'
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 77770
+  author: jagoda acai
+  author_email: jodisasser@arcor.de
+  author_url: http://bit.ly/1zHSxI6
+  date: '2014-12-15 03:37:08 -0500'
+  date_gmt: '2014-12-15 11:37:08 -0500'
+  content: "It's impressive that you are getting thoughts from this article \r\nas
+    well as from our discussion made at this place."
+---
+<p>Now that <a href="http://virtualgeek.typepad.com/virtual_geek/2014/11/scaled-up-vm-level-protection-now-ga.html">RecoverPoint for VMs is fully out and ready to go</a> (check out <a href="http://itzikr.wordpress.com">Itzik's</a><a href="https://www.youtube.com/watch?v=LQ62QJJuF_s"> awesome demo</a>), I wanted to share something fun and interesting.</p>
+<p>Building vRealize Ops (neé vC Ops) adapters for random stuff (in a totally unsupported fashion, of course) is a well known hobby of mine, and RP4VMs is no different.  With a huge amount of help from Zahid Fadli (one of the RecoverPoint Corporate SEs), I managed to get RecoverPoint for VMs to push data into vR Operations.</p>
+<p>As usual, <a href="https://github.com/mcowger/vcopsrp4vm">its on my github</a>.</p>
+<p>Have fun!</p>

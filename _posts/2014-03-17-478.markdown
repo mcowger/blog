@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: My Loyalties....
+author:
+  display_name: mcowger
+  login: mcowger
+  email: matt@cowger.us
+  url: ''
+author_login: mcowger
+author_email: matt@cowger.us
+wordpress_id: 478
+wordpress_url: http://www.exaforge.com/?p=478
+date: '2014-03-17 18:04:33 -0400'
+date_gmt: '2014-03-17 18:04:33 -0400'
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p><em>This is a modified version of a post I made on VMware's internal Socialcast, expressing my feelings of how important it is to work together.  <strong>A reminder:  this is *my* blog, not an EMC, VMware or Pivotal blog.</strong></em></p>
+<p>My paycheck comes from David Goulden.  I have an emc.com email address.  I give briefings at the EMC EBC on the EMC strategy.  I train EMC teams on the integration points between EMC and VMware and Pivotal.  In that sense, you could say I'm an EMCer.  I'd agree with you.</p>
+<p>I sit in PromD almost every day.  I have a vmware.com email address.  I have a vmware badge.  I train EMCers on how to use/sell VMware products.  I write joint messaging documents.  I'm a VCDX and VCDX panelist.  I'm a vExpert for every year its existed.   I give presentations at the VBC alongside VMware teams at least monthly.  In that sense, you could say I'm a VMware-ite (er?).  I'd agree with you.</p>
+<p>My badge works in the Pivotal and Greenplum buildings.  I write apps in Python, Java using things like RabbitMQ, Redis and Gemfire against PivotalHD.  I believe that PaaS is the future of this industry.  In that sense, you could say I'm a Pivoter.  I'd agree with you.</p>
+<p>Really, I believe I am an evangelist for the Federation.  I don't believe that EMC alone has what it takes to be the best in this market - we lack some very critical things around agility, understanding of applications and the mobile world.  These are things that VMware and Pivotal have down pat.  In concert, I think that EMC brings some value in a strong depth and breadth of physical infrastructure that Pivotal and VMware dont have.  There's a reason these three companies exist together...</p>
+<p>...because together, we are be the best choice for a customer, if we work together.</p>
+<p>As a result, I push for us to improve everywhere I can.  Sometimes that means telling an internal EMC team to use VSAN rather than a VNX (which I did yesterday), sometimes it means being honest about cost models so we all know where we stand on things like $/GB, sometimes it means suggesting an EMC product to fill a gap for a customer where VMware doesn't have a play, and sometimes it means admitting when an EMC product isn't the best choice to use at VMware (in my role as their global architect) and suggesting something else.</p>
+<p>I'm not emotional about specific products - but I am absolutely invested in this.  I know beyond a shadow of a doubt that my success (personally, professional, monetarily) is strongly tied to the success of the Federation as a whole.  I *need* products like VSAN, vC Ops, ScaleIO, ViPR, etc to win in the market so I can feed my family, and I will work as hard as I can to make that happen.  Ultimately, I think that this will benefit the customers.  <a href="http://virtualgeek.typepad.com/virtual_geek/2012/01/this-i-believe-emc-presales-manifesto.html">As Chad wrote in his pre-sales manifesto</a>: "We put the customer first, company second, and ourselves third."</p>
+<p>We will <strong>all</strong> win together; customers, partners, vmware, emc and pivotal.</p>
+<p>I'm with you.</p>

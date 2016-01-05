@@ -1,20 +1,33 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+mcowger:
+  name: Matt Cowger
+  avatar: http://pbs.twimg.com/profile_images/513460490006048768/gyngPwgT.jpeg
+  bio: "cloud native, platform 3, devops, community, evangelism, vmware stuff"
+  email: matt@cowger.us
+  disqus-shortname: vmsarefreeright
+  twitter: mcowger
+  facebook: mcowger
   google:
-    plus: BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+    plus: mcowger
+    analytics: UA-29218457-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: mcowger
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: mcowger
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: mcowger
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
