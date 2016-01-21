@@ -24,7 +24,6 @@ The team is responsible for evangelism, marketing and education of cloud native 
 
 UPDATE: Yes, we do.  We are the .next team, and I am working on hoodies :).
 
-
 ---
 
 #So What Cool Stuff Do We Work On?
