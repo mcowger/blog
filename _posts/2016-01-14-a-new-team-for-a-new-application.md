@@ -52,7 +52,7 @@ The team doesn't focus on any one technology and is not part of any specific bus
  
 #Do You Need Help?
  
-Why yes, yes I do.  Right now my team is very small - just me and my good friend, fantastic presenter and awesome technologist [Tommy Trogden](https://twitter.com/vTexan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).  If the description below matches you, and you are in the New England (Boston, NYC, New Hampshire, New Jersey) area, please let me know and [apply here at the regular EMC site](https://jobs.brassring.com/tgwebhost/jobdetails.aspx?SID=%5ecveevQD6oZRDk7mRyru7mRUAS5uSbSrCflusRkMBL3kQvA9fSosfmKqgCLZ0RGx0&jobId=499179&type=search&JobReqLang=1&recordstart=1&JobSiteId=5116&JobSiteInfo=499179_5116&GQId=0).
+Why yes, yes I do.  Right now my team is very small - just me and my good friend, fantastic presenter and awesome technologist [Tommy Trogden](https://twitter.com/vTexan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).  If the description below matches you, and you are in the New England (Boston, NYC, New Hampshire, New Jersey) area, please let me know and [apply here at the regular EMC site](https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=20085&siteid=5109) and search for requisition ID: 158638BR.
 
 ---
 
