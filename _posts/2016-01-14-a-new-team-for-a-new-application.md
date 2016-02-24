@@ -22,7 +22,7 @@ The team is responsible for evangelism, marketing and education of cloud native 
 
 #Do You Have a Team Name (and where can I get a hoodie?)
 
-UPDATE: Yes, we do.  We are the .next team, and I am working on hoodies :).
+UPDATE: Yes, we do.  We are the dotnext team.  Hoodies and stickers?  Come find us at an event, and we'll figure it out!
 
 ---
 
@@ -52,7 +52,9 @@ The team doesn't focus on any one technology and is not part of any specific bus
  
 #Do You Need Help?
  
-Why yes, yes I do.  Right now my team is very small - just me and my good friend, fantastic presenter and awesome technologist [Tommy Trogden](https://twitter.com/vTexan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).  If the description below matches you, and you are in the New England (Boston, NYC, New Hampshire, New Jersey) area, please let me know and [apply here at the regular EMC site](https://sjobs.brassring.com/TGWebHost/home.aspx?partnerid=20085&siteid=5109) and search for requisition ID: 158638BR.
+Why yes, yes I do.  Right now my team is very small - just me and my good friend, fantastic presenter and awesome technologist [Tommy Trogden](https://twitter.com/vTexan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).  
+
+UPDATE: Job was filled!  We'll post about our new teammate soon!
 
 ---
 
