@@ -2,7 +2,7 @@
 title: A New Team for a New Application
 date: '2016-01-14 00:00:00'
 layout: post
-comments: 'true'
+comments: true
 ---
 
 I posted earlier this year that I was changing roles - just within the first couple weeks its been a whirlwind internally letting people know, meeting with EMC leadership, getting silly technical issues fixed so I report the right way internally, etc.  But its also been fun - this is a brand new team, and with my colleagues, we get to shape it from the start.
