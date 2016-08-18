@@ -26,7 +26,7 @@ kramdown:
 # Site owner
 owner:
   name: Matt Cowger
-  avatar: http://pbs.twimg.com/profile_images/513460490006048768/gyngPwgT.jpeg
+  avatar: https://avatars0.githubusercontent.com/u/1929548?v=3&s=460
   bio: "cloud native, platform 3, devops, community, evangelism, vmware stuff"
   email: matt@cowger.us
   disqus-shortname: vmsarefree
