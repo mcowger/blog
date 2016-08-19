@@ -16,7 +16,7 @@ On August 11, Reddit fell over for about 3 hours.  Thats clearly a really big de
 I found this root cause fascinating, because its pretty clear how to prevent it.  Manual tasks are bad.  The most striking thing to me is how this maps into well understood design patterns.
 
 
-If you haven't [read the 12 Factors](https://12factor.net/), you definitly should.  Specifically, [Factor 12](https://12factor.net/admin-processes) stuck out to me here: 
+If you haven't [read the 12 Factors](https://12factor.net/), you almost certainly should.  Specifically, [Factor 12](https://12factor.net/admin-processes) stuck out to me here: 
 
 > One-off admin processes should be run in an identical environment as the regular long-running processes of the app. They run against a release, using the same codebase and config as any process run against that release. Admin code must ship with application code to avoid synchronization issues.
 
