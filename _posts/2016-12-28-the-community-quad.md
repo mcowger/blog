@@ -17,7 +17,7 @@ I need to start out with an apology.  This build took **MUCH MUCH** longer than 
 
 That being said - the build is done!  Check out the orange goodness:
 
-![]({{site.baseurl}}/_images/IMG_0552.jpg)
+![]({{site.baseurl}}/images/IMG_0552.jpg)
 
 
 
@@ -39,8 +39,8 @@ This is probably the fastest quad I've ever built, so I'm a little sad to let it
 
  The result is a stupidly quick quad.  Testing today I hit 78 MPH, and with different props could probably hit about 85.  Also, it rotates at about 900 degrees per second.
 
-![]({{site.baseurl}}/_images/IMG_0553.jpg)
+![]({{site.baseurl}}/images/IMG_0553.jpg)
 
 So Colin - next time you are out here in the west I will teach you how to fly this thing (and maybe detune it just a touch while you learn to fly!).
 
-![]({{site.baseurl}}/_images/IMG_0554.jpg)
+![]({{site.baseurl}}/images/IMG_0554.jpg)
