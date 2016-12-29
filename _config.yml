@@ -1,28 +1,27 @@
 # Site settings
-title: Swift
-description: A clean minimal Theme for Jekyll
-email: pranav@maangalabs.com
-baseurl: /swift
-url: "http://pranav.maangalabs.com" # the base hostname & protocol for your site
+title: Exaforge
+description: Cloud, DevOps, Evagelism
+email: matt@cowger.us
+baseurl: /
+url: "https://mcowger.github.io" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
 
-#feed
-feedburner_username: maangalabs
+
 #twitter
-twitter_username: pranavrajs
-github_username:  pranavrajs
+twitter_username: mcowger
+github_username:  mcowger
 
 #linkedin
-linkedin_username: pranavrajs
+linkedin_username: mcowger
 
 #google analytics
-google_analytics_id : UA-53386152-2
+#google_analytics_id : UA-53386152-2
 #gplus
-gplus_username: 101893920934936418705
+#gplus_username: 101893920934936418705
 
 #fb_username
-fb_username: pranav.tayberrycreative
+#fb_username: pranav.tayberrycreative
 
 #permalink /blog/2014/11/11/this-is-a-sample-post
 permalink: /blog/:year/:month/:day/:title
@@ -30,15 +29,7 @@ permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 
 #Disqus configuration
-disqus_short_name: maangalabscom
-disqus_show_comment_count: true
+#disqus_short_name: maangalabscom
+#disqus_show_comment_count: true
 
 #Can be used for multiple author blogs ! Add name to post For more visit the sample
-authors:
-  pranavrajs:
-    display_name: Pranav Raj S
-    email: pranavrajs@gmail.com
-    fb: pranav.tayberrycreative
-    linkedin: pranavrajs
-    twitter: pranavrajs
-    github: pranavrajs
