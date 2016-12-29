@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 # The VMworld Community Quad
 

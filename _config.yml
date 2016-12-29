@@ -23,7 +23,7 @@ linkedin_username: mcowger
 #fb_username: pranav.tayberrycreative
 
 #permalink /blog/2014/11/11/this-is-a-sample-post
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title.html
 # Build settings
 markdown: kramdown
 
