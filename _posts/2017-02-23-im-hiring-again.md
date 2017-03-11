@@ -4,6 +4,8 @@ layout: post
 title: I'm Hiring - Want To Come Work for the Most Fun Team @ Dell?
 ---
 
+*UPDATE*: Thanks for all the support and great resumes.  For now we've closed the process and are considering the candidates we have.  Once we've made some hires, you know where you'll find more info!
+
 Of course you do :).
 In case you hadn’t heard, the Field Evangelism team I run here at Dell is pretty awesome.  We’ve got seriously fun, smart people like Sam Maracinni, Tommy Trogden, Luke Mahon, Brian Verkley & Fabio Chiodini already spreading the message and having fun doing it.  *We need 2 more people in the Asia / Japan / Australia / Singapore area.*
 
