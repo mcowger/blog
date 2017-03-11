@@ -18,7 +18,13 @@ I need to start out with an apology.  This build took **MUCH MUCH** longer than 
 
 That being said - the build is done!  Check out the orange goodness:
 
+<<<<<<< HEAD
 ![]({{site.baseurl}}/images/IMG_0552.jpg)
+=======
+![:width="700px"]({{site.baseurl}}/images/IMG_0552.jpg)
+
+
+>>>>>>> 0bf64b33d0e35ac4cf29e47dccef5acfe17fdc03
 
 This is probably the fastest quad I've ever built, so I'm a little sad to let it go.  Full build specs:
 
@@ -27,17 +33,18 @@ This is probably the fastest quad I've ever built, so I'm a little sad to let it
 - ESC: The electronic speed controller is responsible for converting requests from the flight controller into actual spinning of the motors.  I used the 30A (yes, 30A - each!) [FlyColor Raptor ESCs](https://hobbyking.com/en_us/flycolor-raptor-mini-30a-f330-powered-blheli-multi-rotor-esc-2-4s-opto.html).  They support all the latest technology and protocols and even run a 48Mhz CPU each.  There are 4 of these, 1 for each motor.   
 - Flight Controller: The quad copter is a natuarally unstable aircraft - it needs active efforts at about 1000-4000Hz to keep it level.  As a result, there's an onboard computer to keep everything stable and interpert control requests from the pilot.  I used an old standby, the[BeeRotor F3](http://rctimer.com/product-1527.html) because its reliable, easy to wire and includes easy monitoring of voltage and current usage right out of the box.   Also, it includes the technology required to overlay that data (called an OSD or onscreen display) onto the video.  I had initially tried a different flight controllers, the SirinFPV, but found it unreliable.
 - FPV Camera: I used the [RunCam Swift](http://shop.runcam.com/runcam-swift/) as its well understand, reliable, hardy and has great colors.
-- Video Transmitter (VTX): I've tried nearly every option for video transmission on the market besides the Connex HD system.  So far, I feel the[LaForge VTx](http://ubuyadrone.com/laforge-5-8ghz-25-200-400mw-switchable-video-transmitter/) system from UBAD gives the best option: It runs on 5V (super easy for wiring), is quite small, uses a pigtail (easy to mount), has a physical swith to disable transmission and supports really simple ways to change channels. 
+- Video Transmitter (VTX): I've tried nearly every option for video transmission on the market besides the Connex HD system.  So far, I feel the[LaForge VTx](http://ubuyadrone.com/laforge-5-8ghz-25-200-400mw-switchable-video-transmitter/) system from UBAD gives the best option: It runs on 5V (super easy for wiring), is quite small, uses a pigtail (easy to mount), has a physical swith to disable transmission and supports really simple ways to change channels.
 - Other Components:
   - Receiver: FrSky XSR
   - Power Distribution: BeeRotor PDB
   - Props: Dal Props 5", 3 rotor props
 - A ton of required accessories (Radio, Goggles, Batteries, Chargers, Spares, etc).
-  
+
   ## The Result
- 
+
  The result is a stupidly quick quad.  Testing today I hit 78 MPH, and with different props could probably hit about 85.  Also, it rotates at about 900 degrees per second.
 
+<<<<<<< HEAD
 ![]({{site.baseurl}}/images/IMG_0553.jpg)
 
 So Colin - next time you are out here in the west I will teach you how to fly this thing (and maybe detune it just a touch while you learn to fly!).
@@ -49,3 +56,10 @@ So Colin - next time you are out here in the west I will teach you how to fly th
 
 
 
+=======
+![:width="700px"]({{site.baseurl}}/images/IMG_0553.jpg)
+
+So Colin - next time you are out here in the west I will teach you how to fly this thing (and maybe detune it just a touch while you learn to fly!).
+
+![:width="700px"]({{site.baseurl}}/images/IMG_0554.jpg)
+>>>>>>> 0bf64b33d0e35ac4cf29e47dccef5acfe17fdc03

@@ -1,60 +1,34 @@
-# Site wide configuration
-
-title:            Exaforge
-locale:           en_US
-url:
-
-
-# Jekyll configuration
-
-permalink:   /:title/
-markdown:    kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+# Site settings
+title: Exaforge
+description: Cloud, DevOps, Evagelism
+email: matt@cowger.us
+url: "https://mcowger.github.io" # the base hostname & protocol for your site
+#favicon
+favicon: /favicon.png
 
 
-# Site owner
-owner:
-  name: Matt Cowger
-  avatar: https://avatars0.githubusercontent.com/u/1929548?v=3&s=460
-  bio: "cloud native, platform 3, devops, community, evangelism, vmware stuff"
-  email: matt@cowger.us
-  disqus-shortname: vmsarefree
-  twitter: mcowger
-  facebook: mcowger
-  google:
-    plus: mcowger
-    analytics: UA-29218457-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: mcowger
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: mcowger
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: mcowger
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+#twitter
+twitter_username: mcowger
+github_username:  mcowger
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+#linkedin
+linkedin_username: mcowger
+
+#google analytics
+#google_analytics_id : UA-53386152-2
+#gplus
+#gplus_username: 101893920934936418705
+
+#fb_username
+#fb_username: pranav.tayberrycreative
+
+#permalink /blog/2014/11/11/this-is-a-sample-post
+permalink: /blog/:year/:month/:day/:title.html
+# Build settings
+markdown: kramdown
+
+#Disqus configuration
+#disqus_short_name: maangalabscom
+#disqus_show_comment_count: true
+
+#Can be used for multiple author blogs ! Add name to post For more visit the sample
