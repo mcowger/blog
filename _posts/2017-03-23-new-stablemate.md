@@ -8,7 +8,7 @@ title: A New Stablemate
 
 [Last week](http://exaforge.com/blog/2017/03/20/end-of-an-era.html) I noted that I had come to the end of the 3 year lease of my Ford Focus Electric - my first electric car.  At the time, I didn't indicate what replaced it, which is what this post will cover.
 
-![enter image description here](http://o.aolcdn.com/commerce/autodata/images/USC50FOC291A021001.jpg)
+![enter image description here](http://o.aolcdn.com/commerce/autodata/images/USC50FOC291A021001.jpg | width=300)
 
 **Requirements**: I learned a lot about my needs in the last 3 years.  I used that to inform my next set of requirements.
 
@@ -37,7 +37,7 @@ The sole survivor was the Chevy Bolt.
 
 **Chevy Bolt**
 
-![enter image description here](https://cdn0.vox-cdn.com/thumbor/39dAilW0XAFyjz4lHvSdiIwUg1A=/cdn0.vox-cdn.com/uploads/chorus_asset/file/7090837/jgolson_160909_1219_0092.0.0.jpg)
+![enter image description here](https://cdn0.vox-cdn.com/thumbor/39dAilW0XAFyjz4lHvSdiIwUg1A=/cdn0.vox-cdn.com/uploads/chorus_asset/file/7090837/jgolson_160909_1219_0092.0.0.jpg  | width=300)
 
 With 238 miles of rated range (and early reports suggesting that 250-275 are not that hard to achieve, and 300 also possible on long flat drives) on battery alone, the Bolt meets #1-#4 easily.  With the Premier package, the Bolt has a quite impressive visibility package with the surround viewing system and the screen/camera based rear-view mirror, taking care of #5.  Its available today (#6) in California today, and has an MSRP (before incentives) of $42K fully loaded.
 
