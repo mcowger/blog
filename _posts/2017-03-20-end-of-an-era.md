@@ -4,11 +4,9 @@ layout: post
 title: End of an Era - Sort Of
 ---
 
-**End of An Era – Sort Of**
-
 No - I&#39;m not leaving Dell 😊.
 
-3 years ago I bought my first fully electric car – a 2014 Ford Focus Electric.  You can read about my (initial impressions)[http://exaforge.com/blog/2014/07/03/buying-an-electric-car-part-2-first-commutes.html], but today is for my final ones, because my 3 year lease is up.
+3 years ago I bought my first fully electric car – a 2014 Ford Focus Electric.  You can read about my [initial impressions](http://exaforge.com/blog/2014/07/03/buying-an-electric-car-part-2-first-commutes.html), but today is for my final ones, because my 3 year lease is up.
 
 I&#39;ve been quite happy with the Focus Electric, overall.
 

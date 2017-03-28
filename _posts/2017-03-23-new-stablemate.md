@@ -4,11 +4,7 @@ layout: post
 title: A New Stablemate
 ---
 
-**A New 'Beast' In The Stable**
-
-[Last week](http://exaforge.com/blog/2017/03/20/end-of-an-era.html) I noted that I had come to the end of the 3 year lease of my Ford Focus Electric - my first electric car.  At the time, I didn't indicate what replaced it, which is what this post will cover.
-
-<img src='http://o.aolcdn.com/commerce/autodata/images/USC50FOC291A021001.jpg' width=400>
+[Last week](http://exaforge.com/blog/2017/03/20/end-of-an-era) I noted that I had come to the end of the 3 year lease of my Ford Focus Electric - my first electric car.  At the time, I didn't indicate what replaced it, which is what this post will cover.
 
 **Requirements**: I learned a lot about my needs in the last 3 years.  I used that to inform my next set of requirements.
 
