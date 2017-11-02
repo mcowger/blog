@@ -2,7 +2,7 @@
 title: Getting Started with Agile, DevOps and Containers
 layout: post
 date: 2017-11-02 15:57:32 +0000
-published: false
+published: true
 ---
 I've had a number of requests lately from friends and colleagues on how to get started with these ideas, and what they can read.   I recently rewrote that email for like the 10th time, so here it is in blog post form:
 
