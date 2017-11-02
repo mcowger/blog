@@ -1,0 +1,25 @@
+---
+pages:
+- _posts/getting-started-with-agile-devops-and-containers.md
+- _posts/2017-08-08-hiring-in-boston.md
+hide_body: false
+fields:
+- type: boolean
+  name: published
+  label: Published
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    options:
+    - post
+    required: true
+  label: Layout
+  description: What Layout to use?
+  default: post
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
